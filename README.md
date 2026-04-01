@@ -5,7 +5,7 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia, aprendizad
 
 ### Sobre mim
 * 🎓 Graduanda em Ciência da Computação.
-* 📚 Atualmente estudando: Programação e Algoritmo, Organização Computacional e Inteligência Artificial.
+* 📚 Atualmente estudando: Programação e Algoritmo e Inteligência Artificial.
 * 💡 Áreas de interesse: IA, Desenvolvimento Web, cibersegurança, Redes e Sistemas Operacionais.
 * 🎯 Objetivo: Estagiar em desenvolvimento e construir uma carreira voltada para cibersegurança, inteligência artificial e soluções tecnológicas avançadas.
 
