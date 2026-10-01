@@ -5,7 +5,7 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia, aprendizad
 
 ### Sobre mim
 * 🎓 Graduanda em Ciência da Computação.
-* 📚 Atualmente estudando: Programação e Algoritmo e Inteligência Artificial.
+* 📚 Atualmente estudando: POO e Java.
 * 💡 Áreas de interesse: IA, Desenvolvimento Web, cibersegurança, Redes e Sistemas Operacionais.
 * 🎯 Objetivo: Estagiar em desenvolvimento e construir uma carreira voltada para cibersegurança, inteligência artificial e soluções tecnológicas avançadas.
 
@@ -19,6 +19,20 @@ Sou estudante de Ciência da Computação, apaixonada por tecnologia, aprendizad
 <p align="left"> <a href="https://github.com/lizteofilo"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="mailto:mariaelizateofilo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 #### 🚀 Projetos em Destaque...
+
+<table>
+  <tr>
+    <td align="left">
+      <h3><a href="https://github.com/lizteofilo/JogodeTabuleiro-POO">🎲 JogodeTabuleiro-POO</a></h3>
+      <p>Simulador de jogo de tabuleiro desenvolvido em Java utilizando Programação Orientada a Objetos (POO) avançada, aplicando herança, polimorfismo dinâmico puro e renderização gráfica de tabuleiro na consola.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/POO-007396?style=flat-square" alt="POO">
+        <img src="https://img.shields.io/badge/Status-Concluído-success?style=flat-square" alt="Status">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lizteofilo/lizteofilo/output/github-contribution-grid-snake-dark.svg">
